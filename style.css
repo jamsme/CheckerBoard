@@ -1,0 +1,17 @@
+h3 {
+	text-align: center;
+}
+#row{
+	display: flex;
+	margin-left: 500px;
+ }
+.red {
+	background-color: #7f271c;
+	width: 40px;
+	height: 40px;
+}
+.blue {
+	background-color: #000078;
+	width: 40px;
+	height: 40px;
+}

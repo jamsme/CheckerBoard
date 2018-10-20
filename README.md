@@ -1,2 +1,2 @@
-This checkerboard allows users to pass in thier desired hieght and width.
-- Not using a servelt -
+This checkerboard allows users to pass in thier desired hieght and width throughg the url.
+- Not using a servelt 
